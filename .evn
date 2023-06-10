@@ -1,4 +1,4 @@
-DATABASE_URL="mongodb://admin:GEMednDnwMsJ3nUn@SG-dimpom-58508.servers.mongodirector.com:27017/admin"
+DATABASE_URL="mongodb://exsploer:Y5BQQ84mGFSymTWC@SG-dimpom-58508.servers.mongodirector.com:27017/twitter"
 JWT_ACCESS_TOKEN_SECRET='seregaDiplom'
 JWT_REFRESH_TOKEN_SECRET='seregaDiplomREFDS'
 CLOUDINARY_CLOUD_NAME='doacqmsmo'
