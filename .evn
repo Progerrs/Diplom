@@ -1,4 +1,4 @@
-DATABASE_URL="postgresql://Progerrs:2MU4PgWbZntF@ep-little-breeze-742970.eu-central-1.aws.neon.tech/neondb"
+DATABASE_URL="mongodb://admin:GEMednDnwMsJ3nUn@null:27017/admin"
 JWT_ACCESS_TOKEN_SECRET='seregaDiplom'
 JWT_REFRESH_TOKEN_SECRET='seregaDiplomREFDS'
 CLOUDINARY_CLOUD_NAME='doacqmsmo'
